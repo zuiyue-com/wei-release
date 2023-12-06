@@ -1,6 +1,0 @@
-/*!
- *  build: Vue  Admin Plus
- *  copyright: vue-admin-beautiful.com
- *  time: 2023-12-04 16:59:46
- */
-"use strict";(self["webpackChunkadmin_plus"]=self["webpackChunkadmin_plus"]||[]).push([[4715],{4715:function(e,t,u){u.r(t),u.d(t,{default:function(){return y}});var n=u(86398),s=(u(3241),u(69448),u(57658),u(66252)),a=u(2262),r=u(3577),i=u(15790),c=u(22201);const o={class:"wrap"},d={key:0},p={class:"link"},w={key:1};var f={__name:"wxoauth",setup(e){const{wxlogin:t}=(0,i.L)(),u=(0,c.yj)(),f=(0,c.tv)();async function l(){u.query.token&&await t(u.query.token),u.query.redirect?f.push({path:u.query.redirect}):f.push({path:"/"})}return(0,s.bv)((()=>{l()})),(e,t)=>{const i=n.gi,c=(0,s.up)("router-link");return(0,s.wg)(),(0,s.iD)("div",o,[(0,a.SU)(u).query.message?((0,s.wg)(),(0,s.iD)("div",d,[(0,s.Wm)(i,{type:"danger"},{default:(0,s.w5)((()=>[(0,s.Uk)("登录失败："+(0,r.zw)((0,a.SU)(u).query.message),1)])),_:1}),(0,s._)("div",p,[(0,s.Wm)(c,{to:"/"},{default:(0,s.w5)((()=>[(0,s.Uk)("返回首页")])),_:1})])])):((0,s.wg)(),(0,s.iD)("div",w,[(0,s.Wm)(i,{type:"success"},{default:(0,s.w5)((()=>[(0,s.Uk)("正在登录...")])),_:1})]))])}}};function l(e){e.__source="src/views/login/wxoauth.vue"}var k=u(83744);"function"===typeof l&&l(f);const v=(0,k.Z)(f,[["__scopeId","data-v-236e1ffc"]]);var y=v}}]);

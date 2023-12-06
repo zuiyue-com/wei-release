@@ -1,6 +1,0 @@
-/*!
- *  build: Vue  Admin Plus
- *  copyright: vue-admin-beautiful.com
- *  time: 2023-11-06 12:25:27
- */
-"use strict";(self["webpackChunkadmin_plus"]=self["webpackChunkadmin_plus"]||[]).push([[6068],{46068:function(e,t,i){i.r(t),i.d(t,{default:function(){return m}});var n=i(10661),c=(i(3241),i(35095),i(66252)),l=i(49963),s=i(3577);const a={key:1,class:"ri-heart-3-fill"},r=(0,c._)("i",{class:"ri-chat-4-line",title:"评论"},null,-1);var u={__name:"index",props:{item:{type:Object,default:()=>{}}},emits:["like"],setup(e,{emit:t}){const i=e;function u(){t("like",i.item)}return(t,i)=>{const o=n.Q0;return(0,c.wg)(),(0,c.iD)(c.HY,null,[(0,c.Wm)(o,{class:"box-item",effect:"dark",content:"点赞",placement:"top"},{default:(0,c.w5)((()=>[(0,c._)("span",null,[e.item.like.can?((0,c.wg)(),(0,c.iD)("i",{key:0,class:"cursor-pointer ri-heart-3-line",onClick:i[0]||(i[0]=(0,l.iM)((t=>u(e.item)),["stop"]))})):((0,c.wg)(),(0,c.iD)("i",a))])])),_:1}),(0,c.Uk)(" "+(0,s.zw)(e.item.like.number)+" ",1),(0,c.Wm)(o,{class:"box-item",effect:"dark",content:"评论",placement:"top"},{default:(0,c.w5)((()=>[r])),_:1}),(0,c.Uk)(" "+(0,s.zw)(e.item.replies),1)],64)}}};function o(e){e.__source="src/components/TopicBar/index.vue"}"function"===typeof o&&o(u);const p=u;var m=p}}]);
