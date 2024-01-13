@@ -1,0 +1,6 @@
+/*!
+ *  build: Vue  Admin Plus
+ *  copyright: vue-admin-beautiful.com
+ *  time: 2024-01-12 10:25:31
+ */
+"use strict";(self["webpackChunkadmin_plus"]=self["webpackChunkadmin_plus"]||[]).push([[3375],{63375:function(e,t,a){a.r(t),a.d(t,{default:function(){return d}});var n=a(15659),i=(a(3241),a(10444),a(69950)),u=(a(82123),a(19615),a(66252)),l=a(2262),o=a(3577),s=a(96486);const c={class:"timeline-container"};var m=(0,u.aZ)({__name:"image_timeline",props:{detail:{type:Object,default:()=>{}}},setup(e){const t=e,a=(0,u.Fl)((()=>(0,s.omit)(t.detail,["image_author","image_homepage"])));return(e,t)=>{const s=i._T,m=i.rJ,r=n.ElButton;return(0,u.wg)(),(0,u.iD)("div",c,[(0,u.Wm)(m,null,{default:(0,u.w5)((()=>[((0,u.wg)(!0),(0,u.iD)(u.HY,null,(0,u.Ko)((0,l.SU)(a),((e,t)=>((0,u.wg)(),(0,u.j4)(s,{key:t,timestamp:e.value},{default:(0,u.w5)((()=>[(0,u.Uk)((0,o.zw)(e.title),1)])),_:2},1032,["timestamp"])))),128))])),_:1}),(0,u.Wm)(r,{type:"primary"},{default:(0,u.w5)((()=>[(0,u.Uk)("下载模型")])),_:1})])}}});function r(e){e.__source="src/components/Topic/image_timeline.vue"}var p=a(83744);"function"===typeof r&&r(m);const _=(0,p.Z)(m,[["__scopeId","data-v-f59a58dc"]]);var d=_}}]);
