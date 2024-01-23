@@ -1,6 +1,0 @@
-/*!
- *  build: Vue  Admin Plus
- *  copyright: vue-admin-beautiful.com
- *  time: 2024-01-22 15:58:23
- */
-"use strict";(self["webpackChunkadmin_plus"]=self["webpackChunkadmin_plus"]||[]).push([[9793],{89793:function(e,t,a){a.r(t),a.d(t,{default:function(){return _}});var n=a(69950),i=(a(3241),a(82123),a(19615),a(66252)),s=a(2262),l=a(3577),u=a(96486);const o={class:"timeline-container"},c={class:"actions"};var r=(0,i.aZ)({__name:"image_timeline",props:{detail:{type:Object,default:()=>{}}},setup(e){const t=e,a=(0,i.Fl)((()=>(0,u.omit)(t.detail,["author","homepage","download","size"])));return(e,t)=>{const u=n._T,r=n.rJ;return(0,i.wg)(),(0,i.iD)("div",o,[(0,i.Wm)(r,null,{default:(0,i.w5)((()=>[((0,i.wg)(!0),(0,i.iD)(i.HY,null,(0,i.Ko)((0,s.SU)(a),((e,t)=>((0,i.wg)(),(0,i.j4)(u,{key:t,timestamp:e.value},{default:(0,i.w5)((()=>[(0,i.Uk)((0,l.zw)(e.title),1)])),_:2},1032,["timestamp"])))),128))])),_:1}),(0,i._)("div",c,[(0,i.WI)(e.$slots,"default")])])}}});function d(e){e.__source="src/components/Topic/image_timeline.vue"}var m=a(83744);"function"===typeof d&&d(r);const p=(0,m.Z)(r,[["__scopeId","data-v-57ad48fc"]]);var _=p}}]);
