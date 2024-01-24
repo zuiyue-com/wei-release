@@ -1,7 +1,7 @@
 /*!
  *  build: Vue  Admin Plus
  *  copyright: vue-admin-beautiful.com
- *  time: 2024-01-23 18:46:50
+ *  time: 2024-01-24 12:03:10
  */
 "use strict";(self["webpackChunkadmin_plus"]=self["webpackChunkadmin_plus"]||[]).push([[2044],{43977:function(e,t,l){l.d(t,{Z:function(){return n}});
 /*! Element Plus v2.3.14 */
